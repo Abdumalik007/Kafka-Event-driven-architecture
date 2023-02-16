@@ -6,4 +6,4 @@
 ### 1)Stock service
 ### 1)Email service
 
-## When Order service pulish events to kafka broker, then Stock service and Email service will consume this event.
+## When Order service publish event to kafka broker, then Stock service and Email service will consume this event. And regarding to the situatiuon, we can save this event into database.
